@@ -1,5 +1,5 @@
 import React from 'react';
-import { addToDb, removeFromDb } from '../../utilities/fakedb';
+import { addToDb, removeFromDb } from '../utilities/fakedb';
 import './Cosmetic.css';
 
 const Cosmetic = (props) => {
